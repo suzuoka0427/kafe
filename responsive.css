@@ -274,18 +274,19 @@ margin-right: 30px;
 .cafebtn{
    float: left;
    margin-right: 10px;
-   margin-top: 4%;
+   margin-top: 3%;
 }
 .staffbtn{
    float: left;
    margin-right: 10px;
-   margin-top: 4%;
+   margin-left:10px;
+   margin-top: 3%;
 }
 
 .eventbtn{
    float: left;
    margin-right: 10px;
-   margin-top: 4%;
+   margin-top: 3%;
 }
 h1{
    padding-top: 10%;
