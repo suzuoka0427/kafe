@@ -215,19 +215,19 @@ padding-left:2%;
 .cafebtn{
 position:absolute;
 top:30%;
-left:40%;
+left:30%;
 }
 
 .staffbtn{
 position:absolute;
 top:30%;
-left:65%;
+left:53%;
 }
 
 .eventbtn{
 position:absolute;
 top:30%;
-left:80%;
+left:73%;
 }
 
 .cafe,.staff,.event,footer{
