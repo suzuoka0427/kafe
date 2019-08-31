@@ -288,7 +288,7 @@ margin-left: 10px;
 }
 h1{
    padding-top: 10%;
-   font-size: 20px;
+   font-size: 35px;
 }
 body{
    text-align: center;
@@ -303,5 +303,13 @@ p{
 
 a{
    font-size:5px;
+   }
+ 
+ .staff-pono{
+    color:#0066FF;
+   font-weight:600;
+   text-decoration:none;
+   text-align: center;
+   fontsize:35px;
    }
 }
