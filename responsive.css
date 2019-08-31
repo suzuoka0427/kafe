@@ -147,20 +147,20 @@ height:9%;
 
  .cafebtn{
 position:absolute;
-top:30%;
-left:40%;
+top:38%;
+left:33%;
 }
 
   .staffbtn{
     position:absolute;
-    top:30%;
-    left:64%;
+    top:38%;
+    left:54%;
  }
 
     .eventbtn{
     position:absolute;
-    top:30%;
-    left:80%;
+    top:38%;
+    left:60%;
  }
 
  .cafe,.staff,.event{
