@@ -10,7 +10,7 @@
    }
    .title{
       float: left;
-      margin-right: 40%;
+      text-align: center;
    }
    .headerbtn{
       margin-top: 7%;
@@ -99,12 +99,22 @@
     .logo-erea{text-align:center;margin:auto;}
     .cafebtn{
        margin-bottom: 10px;
+        position:absolute;
+        top: 55%;
+        left: 2%;
     }
     .staffbtn{
        margin-bottom: 10px;
+      
+       position: absolute;
+       top: 55%;
+       left: 43%;
     }
     .eventbtn{
        margin-bottom: 10px
+       position: absolute;
+       top: 55%;
+       left: 74%;
     }
    .cafe{
       text-align: center;
