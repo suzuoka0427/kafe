@@ -273,19 +273,19 @@ margin-left: 10px;
 .cafebtn{
    float: left;
    margin-right: 50px;
-   
+   font-size:5px;
 }
 .staffbtn{
    float: left;
    margin-right: 30px;
    margin-left:40px;
-   margin-top: 2%;
+   font-size:5px;
 }
 
 .eventbtn{
    float: left;
    margin-right: 80px;
-   margin-top: 2%;
+   font-size:5px;
 }
 h1{
    padding-top: 10%;
