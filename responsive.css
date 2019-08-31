@@ -160,7 +160,7 @@ left:33%;
     .eventbtn{
     position:absolute;
     top:38%;
-    left:60%;
+    left:70%;
  }
 
  .cafe,.staff,.event{
@@ -283,7 +283,6 @@ margin-left: 10px;
 
 .eventbtn{
    float: left;
-   margin-right: 80px;
    font-size:5px;
 }
 h1{
