@@ -268,25 +268,24 @@ header{
 .title{
 float: left;
 margin-left: 30px;
-margin-right: 10px;
 }
 
 .cafebtn{
    float: left;
    margin-right: 50px;
-   margin-top: 3%;
+   margin-top: 2%;
 }
 .staffbtn{
    float: left;
    margin-right: 30px;
    margin-left:40px;
-   margin-top: 3%;
+   margin-top: 2%;
 }
 
 .eventbtn{
    float: left;
-   margin-right: 40px;
-   margin-top: 3%;
+   margin-right: 80px;
+   margin-top: 2%;
 }
 h1{
    padding-top: 10%;
