@@ -282,8 +282,8 @@ header{
 }
 .btn{
    display: flex;
-   margin-top:  5%;
-   margin: auto;
+   margin-top:  3%;
+  
 }
 .cafebtn{
    font-size: 5px;
